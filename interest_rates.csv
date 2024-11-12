@@ -1,0 +1,9 @@
+﻿bank,interest_rate_1,amount_1,interest_rate_2,amount_2,interest_rate_3,amount_3,interest_rate_4,amount_4,interest_rate_5,amount_5,interest_rate_6,amount_6,credit_salary,giro,spend,others,remarks
+UOB,3.00%,75000,4.50%,50000,6.00%,25000,,,,,,,Y,Y,Y,,Salary can be faked
+OCBC,2.00%,75000,4%,25000,,,,,,,,,Y,N,Y,Save $500 vs average daily balance of prior month,
+Chocolate,3.60%,20000,,,,,,,,,,,N,N,N,,
+Maribank,2.88%,30000,2.88%,30000,2.88%,15000,2.88%,25000,,,,,N,N,N,,
+HSBC,4.03%,30000,4.03%,30000,4.03%,15000,4.03%,25000,,,,,N,N,Y,"5 payment with cc AND in/out 2k AND sms, rotate out every 1 month",
+SCB,4.03%,30000,4.03%,30000,4.03%,15000,4.03%,25000,,,,,N,N,N,"Rotate out every 1 - 2 months, varying interest rate",
+BOC_WL,4.15%,30000,4.15%,30000,4.15%,15000,4.15%,25000,,,,,Y,N,Y,Real salary (tiered) AND $500 spend AND 3 bill payment of $30 each ,
+BOC_JY,3.55%,30000,3.55%,30000,3.55%,15000,3.55%,25000,,,,,Y,N,Y,Real salary (tiered) AND $500 spend AND 3 bill payment of $30 each ,
